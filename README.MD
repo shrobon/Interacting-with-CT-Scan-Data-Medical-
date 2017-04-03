@@ -7,7 +7,7 @@ Rendering and interacting with CT (Computed Tomography)  Image Volumes
 
 ## Installation
 ```
-python Asst2.py
+python assignment3.py
 ```
 
 ## Output
